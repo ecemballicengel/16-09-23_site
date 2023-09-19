@@ -1,0 +1,123 @@
+nav {
+  color: white !important;
+  background-color: #121212 !important;
+  opacity: 0.8;
+}
+
+a {
+  text-decoration: none !important;
+  color: white !important;
+}
+.main-a {
+  background-color: black !important;
+  padding: 75px !important;
+}
+.title-one {
+  font-size: 52px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+}
+.pre-order {
+  color: #86868b !important;
+  font-weight: 400 !important;
+  font-size: 21px !important;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 25px;
+}
+.avail {
+  color: #86868b !important;
+  font-weight: 400 !important;
+  font-size: 21px !important;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 15px;
+}
+.links {
+  color: blue !important;
+  background-color: black;
+}
+
+.as-text {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  color: #2997ff !important;
+  padding: 15px;
+  font-size: 27px;
+  font-weight: 400 !important;
+}
+
+img {
+  max-width: 1080px;
+}
+.maintwo-a {
+  background-color: #f5f5f7 !important;
+}
+.title-one-two {
+  padding-top: 25px;
+  font-size: 52px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  color: #161617 !important;
+}
+.title-two-two {
+  font-size: 42px;
+  line-height: 1.125;
+  font-weight: 400;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  color: #272728 !important;
+}
+.main-one-a {
+  background-color: black !important;
+  padding-top: 35px;
+}
+.title-five {
+  color: #b61415;
+}
+.title-four {
+  color: rgb(245, 245, 247);
+}
+.watch-ultra {
+  color: #fd6f1b !important;
+}
+.img-left {
+  max-width: 75%;
+}
+.brand {
+  padding: 15px;
+  margin: 10px;
+}
+.subhead {
+  color: #000000;
+  font-weight: 200;
+}
+
+.apple-footer {
+  background-color: #f5f5f7;
+  padding: 5px;
+}
+
+.footer-a {
+  color: #515154 !important;
+}
+
+.footer-a:hover {
+  text-decoration: underline !important;
+}
+
+.footer-ul {
+  list-style-type: none;
+}
